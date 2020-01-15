@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "complete": false,
+      "complete": true,
       "_id": "5e1d697d70095a431c4d716a",
       "created_date": "2020-01-14T07:10:53.896Z",
       "__v": 0,
@@ -9,12 +9,20 @@
       "note": "It has to be done today"
     },
 	{
-      "complete": false,
+      "complete": true,
       "_id": "5e1d697d70095a431c4d000a",
-      "created_date": "2020-01-15T07:10:53.896Z",
+      "created_date": "2020-01-15T09:10:53.896Z",
       "__v": 0,
-      "task": "Checking Middlewarw",
+      "task": "Checking Middleware",
       "note": "It has to be done today too"
+    },
+	{
+      "complete": false,
+      "_id": "5e1d697d71d697d70012300a",
+      "created_date": "2020-01-15T013:15:00.000Z",
+      "__v": 0,
+      "task": "Apply Redux into ZonarCoach",
+      "note": "It has to be done this week"
     }
   ]
 }
